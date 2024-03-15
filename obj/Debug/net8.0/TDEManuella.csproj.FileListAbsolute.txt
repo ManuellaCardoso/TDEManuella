@@ -1,0 +1,14 @@
+C:\Users\COMPRAS & LICITAÇÕES\Documents\teste\TDEManuella\bin\Debug\net8.0\TDEManuella.exe
+C:\Users\COMPRAS & LICITAÇÕES\Documents\teste\TDEManuella\bin\Debug\net8.0\TDEManuella.deps.json
+C:\Users\COMPRAS & LICITAÇÕES\Documents\teste\TDEManuella\bin\Debug\net8.0\TDEManuella.runtimeconfig.json
+C:\Users\COMPRAS & LICITAÇÕES\Documents\teste\TDEManuella\bin\Debug\net8.0\TDEManuella.dll
+C:\Users\COMPRAS & LICITAÇÕES\Documents\teste\TDEManuella\bin\Debug\net8.0\TDEManuella.pdb
+C:\Users\COMPRAS & LICITAÇÕES\Documents\teste\TDEManuella\obj\Debug\net8.0\TDEManuella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPRAS & LICITAÇÕES\Documents\teste\TDEManuella\obj\Debug\net8.0\TDEManuella.AssemblyInfoInputs.cache
+C:\Users\COMPRAS & LICITAÇÕES\Documents\teste\TDEManuella\obj\Debug\net8.0\TDEManuella.AssemblyInfo.cs
+C:\Users\COMPRAS & LICITAÇÕES\Documents\teste\TDEManuella\obj\Debug\net8.0\TDEManuella.csproj.CoreCompileInputs.cache
+C:\Users\COMPRAS & LICITAÇÕES\Documents\teste\TDEManuella\obj\Debug\net8.0\TDEManuella.dll
+C:\Users\COMPRAS & LICITAÇÕES\Documents\teste\TDEManuella\obj\Debug\net8.0\refint\TDEManuella.dll
+C:\Users\COMPRAS & LICITAÇÕES\Documents\teste\TDEManuella\obj\Debug\net8.0\TDEManuella.pdb
+C:\Users\COMPRAS & LICITAÇÕES\Documents\teste\TDEManuella\obj\Debug\net8.0\TDEManuella.genruntimeconfig.cache
+C:\Users\COMPRAS & LICITAÇÕES\Documents\teste\TDEManuella\obj\Debug\net8.0\ref\TDEManuella.dll
